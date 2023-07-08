@@ -7,7 +7,7 @@
 
 Ömer is our junior back-end developer. He has been working in software development for 2 years. He is an expert in back-end technologies and is responsible for developing functions that allow users to register and track their products within the application. He has a great passion for coming up with creative solutions and working in a team. He constantly strives to improve himself with an innovative approach that will add value to your project.
 
-**Ali Osman** - Sr. Back-End Developer  
+**Ali Osman Ünal** - Sr. Back-End Developer  
 *Experience: 10 years of experience*
 
 Ali is our experienced senior back-end developer. He has been working in the software development industry for over 10 years. He has a deep knowledge of back-end technologies and possesses the ability to lead complex projects. He plays a crucial role in designing and developing systems that enable users to register, track their products, and receive notifications. He keeps himself updated with new technologies and collaborates with his team to deliver high-quality work.
@@ -66,3 +66,17 @@ Emir is our Flutter developer. He has been working in mobile application develop
 </td></tr></table>  
 
 <br/>  
+
+##  UI/UX Designer
+- [@Burak ÜnaL](https://github.com/burakunal28)
+  
+
+##  Flutter Developer
+- [@Emir Seyhan](https://github.com/burakunal28)
+  
+
+##  Back-End Developer
+- [@Ömer Faruk Yılmaz](https://github.com/omerfaruqyilmaz)
+- [@Ali Osman Ünal](https://github.com/imexpert)
+
+  
